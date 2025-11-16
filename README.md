@@ -1,16 +1,24 @@
 <center><img src="luffy12png.png" style="height:500px;"></center>
 
-## Welcome 👋
+# Welcome 👋
 
-My name is Lukman.
+## 🌟 Hi, I'm Muhammad Lukmanul Hakim!
 
-I am student at Dibimbing.com
+I am a Data Analyst with an Accounting background, experienced in processing and analyzing data using Python, creating interactive dashboards in Power BI, and performing Exploratory Data Analysis (EDA) to deliver meaningful business insights.
 
-My skillset:
-* 🐍 Python
+
+ ## 🚀 Tech Stack & Tools
+
+Languages & Libraries:
+* Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
 * SQL
-* PowerBI
-* Tableau
+* DAX (Power BI)
+
+Tools:
+* Power BI
+* Jupyter Notebook / Google Colab
+* Excel (Advanced)
+* Git & GitHub
 <!--
 **lukmangit24/lukmangit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

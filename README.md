@@ -1,4 +1,4 @@
-<center><img src="luffy12png.png" style="height:500px;"></center>
+<center><img src="luffy12png.png" style="height:300px;"></center>
 
 # Welcome 👋
 

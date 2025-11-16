@@ -1,5 +1,16 @@
-## Hi there 👋
+<center><img src="Luffy.png" style="height:300px;"></center>
 
+## Welcome 👋
+
+My name is Lukman.
+
+I am student at Dibimbing.com
+
+My skillset:
+* 🐍 Python
+* SQL
+* PowerBI
+* Tableau
 <!--
 **lukmangit24/lukmangit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
